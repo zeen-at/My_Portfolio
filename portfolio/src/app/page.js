@@ -92,10 +92,10 @@ const Home = () => {
         <div className='py-2'>
           <h3 className='text-3xl py-1 dark:text-gray-200'>Portfolio</h3>
         </div>
-        <div className="lg: flex flex-wrap gap-10 " > 
+        <div className="lg: flex flex-wrap gap-20 " > 
           {data.map(({title, image, link, Technologies}) => (
             <Link href={link} >
-              <div className="text-center shadow-lg p-10 rounded " key={title}>
+              <div className="text-center shadow-lg p-10 rounded" key={title}>
                 <h3 className="text-teal-500 text-lg font-medium py-4">{title}</h3>
                 <Image src={image} width={200} height={200} alt={title} />
                 <p className='py-4 text-teal-600'>Technologies</p>
