@@ -28,7 +28,7 @@ const data = [
   },
   {
     title: "Movie App",
-    link: "https://movie-app-eosin-eta.vercel.app/",
+    link: "https://movie-app-ww6o-hy2tm5oay-zeen-at.vercel.app/",
     image: "/movie.png",
     Technologies: ["React", "Redux", "Sass"]
   }
