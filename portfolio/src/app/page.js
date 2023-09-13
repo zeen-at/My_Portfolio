@@ -26,6 +26,12 @@ const data = [
     image: "/promptopia.png",
     Technologies: ["Nextjs", "HTML", "Tailwind css"]
   },
+  {
+    title: "Movie App",
+    link: "https://movie-app-eosin-eta.vercel.app/",
+    image: "/movie.png",
+    Technologies: ["React", "Redux", "Sass"]
+  }
   // {
   //   title: "Haya Closet",
   //   link: "",
