@@ -55,7 +55,7 @@ const Home = () => {
           <ul className='flex items-center'>
             <li className='cursor-pointer 2xl'><BsMoonStarsFill onClick={() => setDarkMode(!darkMode)}/></li>
             <li>
-              <a href="#" className=' bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8'>Resume</a>
+              <a href="https://my-portfolio-vkhx.vercel.app/" className=' bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8'>Resume</a>
             </li>
           </ul>
         </nav>
