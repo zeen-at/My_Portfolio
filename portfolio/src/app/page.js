@@ -31,6 +31,12 @@ const data = [
     link: "https://movie-app-ww6o-hy2tm5oay-zeen-at.vercel.app/",
     image: "/movie.png",
     Technologies: ["React", "Redux", "Sass"]
+  },
+  {
+    title: "Nike-ey Landing Page",
+    link: "https://nike-ey.vercel.app/",
+    image: "/nikey.png",
+    Technologies: ["React-Vite", "Tailwind"]
   }
   // {
   //   title: "Haya Closet",
