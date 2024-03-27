@@ -24,7 +24,7 @@ const data = [
     title: "Promptopia",
     link: "",
     image: "/promptopia.png",
-    Technologies: ["Nextjs", "HTML", "Tailwind css"]
+    Technologies: ["Nextjs", "Tailwind css"]
   },
   {
     title: "Movie App",
@@ -37,7 +37,13 @@ const data = [
     link: "https://nike-ey.vercel.app/",
     image: "/nikey.png",
     Technologies: ["React-Vite", "Tailwind"]
-  }
+  },
+  {
+    title: "Weather App",
+    link: "https://weather-app-nine-henna-83.vercel.app/",
+    image: "/weather_app.png",
+    Technologies: ["React", "Tailwind", "Context Api"]
+  },
   // {
   //   title: "Haya Closet",
   //   link: "",
