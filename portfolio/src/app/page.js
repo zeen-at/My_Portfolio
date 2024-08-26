@@ -67,7 +67,7 @@ const Home = () => {
           <ul className='flex items-center'>
             <li className='cursor-pointer 2xl'><BsMoonStarsFill onClick={() => setDarkMode(!darkMode)}/></li>
             <li>
-              <a href="https://drive.google.com/file/d/1Kbyn8tQGpBh4E3--F8w9ssgQ9QiUshlA/view?usp=sharing" className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8'>Resume</a>
+              <a href="https://drive.google.com/file/d/1h8SOQCkneFJrgPZQZbTxqn2RogGwLKv1/view?usp=sharing" className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8'>Resume</a>
             </li>
           </ul>
         </nav>
@@ -79,9 +79,9 @@ const Home = () => {
           </p>
         </div>
         <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400'>
-          <a href=""><AiFillGithub/></a>
-          <a href=""><AiFillLinkedin /></a>
-          <a href=""><MdEmail/></a>
+          <a href="www.github.com/zeen-at"><AiFillGithub/></a>
+          <a href="https://www.linkedin.com/in/zinat-sanni-b36aa7175/"><AiFillLinkedin /></a>
+          <a href="mailto:sannizinat@gmail.com"><MdEmail/></a>
         </div>
       </section>
 
