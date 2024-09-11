@@ -1,5 +1,5 @@
 "use client";
-import Image from "@/next/image";
+import Image from "next/image";
 import { BsMoonStarsFill } from "react-icons/bs";
 import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 import { MdEmail } from "react-icons/md";
