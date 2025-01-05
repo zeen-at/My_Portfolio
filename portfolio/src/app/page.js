@@ -49,6 +49,18 @@ const data = [
     image: "/weather_app.png",
     Technologies: ["React", "Tailwind", "Context Api"],
   },
+  {
+    title: "Accrete Energy",
+    link: "https://accrete-energy.com",
+    image: "/accrete.png",
+    Technologies: ["Next-js", "Tailwind", "Context Api"],
+  },
+  {
+    title: "PhlexiT",
+    link: "https://www.myphlexit.com/",
+    image: "/phlexiT.png",
+    Technologies: ["Recat native", "Tailwind", "Context Api", "Redux"],
+  },
   // {
   //   title: "Haya Closet",
   //   link: "",
@@ -79,7 +91,7 @@ const Home = () => {
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1h8SOQCkneFJrgPZQZbTxqn2RogGwLKv1/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1enYUxi06B32OPpSgFKoh00HLYiR5usSj/view?usp=sharing"
                   className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8"
                 >
                   Resume
